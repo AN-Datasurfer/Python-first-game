@@ -1,0 +1,11 @@
+player_speed = [1,1]
+
+
+
+
+player_speed[0] = -player_speed[0]
+player_speed[1] = -player_speed[1]
+player_speed[0] = -player_speed[0]
+player_speed[1] = -player_speed[1]
+
+print(player_speed)
